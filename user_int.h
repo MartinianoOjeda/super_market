@@ -1,4 +1,11 @@
-#include "customer.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <conio.h>
+#include <stdbool.h>
+#include <windows.h>
+#include <time.h>
+#include <string.h>
+#include <dirent.h>
 
 #define ESC 27
 #define MAX_RANGE 10

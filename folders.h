@@ -1,11 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <conio.h>
-#include <stdbool.h>
-#include <windows.h>
-#include <time.h>
-#include <string.h>
-#include <dirent.h>
+#include "user_int.h"
 
 #define DIR_FILE "."
 #define DIR_CUSTOMERS "./files/customers/"

@@ -4,6 +4,7 @@
         "dirent.h": "c",
         "string.h": "c",
         "file.h": "c",
-        "windows.h": "c"
+        "windows.h": "c",
+        "time.h": "c"
     }
 }
